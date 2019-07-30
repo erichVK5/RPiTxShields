@@ -1,0 +1,11 @@
+This directory contains the gerbers used for the WSPR shield shown in the 2019 July-August edition of the WIA magazine AR.
+
+There is also a pcb design file in pcb-rnd (.lht) format, in case builders wish to modify the design using the open source pcb layout editor pcb-rnd ( http://repo.hu/projects/pcb-rnd )
+
+There is also a schematic in gEDA gschem format (.sch), as well as a .jpg of the schematic.
+
+The design has a TAPR open source hardware licence.
+
+73 and good DX
+
+VK5HSE
